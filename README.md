@@ -1,3 +1,6 @@
+<img width="1377" height="774" alt="Screenshot 2026-05-17 at 9 49 00 AM" src="https://github.com/user-attachments/assets/e03d9dc9-c2b4-494c-aa43-ea0004e7ef56" />
+
+
 🏥 Hospital Payments Data Visualization
 An interactive Tableau dashboard analyzing heart attack hospital payment data across the United States built as a college data visualization project.
 
